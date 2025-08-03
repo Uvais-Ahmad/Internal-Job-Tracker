@@ -114,7 +114,7 @@ This project includes helpful scripts in the root `package.json` that make setup
 #### **Step 1: Extract & Navigate**
 ```bash
 # Extract zip file and navigate to project directory
-cd FSD_Assignment_Project
+cd Internal-Job-Tracker
 ```
 
 #### **Step 2: One-Command Setup**
