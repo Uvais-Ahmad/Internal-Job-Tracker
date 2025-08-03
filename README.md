@@ -5,7 +5,8 @@
 
 ```bash
 # 1. Navigate to project directory
-cd FSD_Assignment_Project
+https://github.com/Uvais-Ahmad/Internal-Job-Tracker.git
+cd Internal-Job-Tracker
 
 # 2. Install all dependencies (frontend + backend)
 npm run setup
