@@ -1,6 +1,9 @@
 # Job Tracker Application
 ### Enhanced Full-Stack Job Application Management System
 
+## 🌐 Live Demo
+**🚀 [View Live Application](https://your-project-name.vercel.app)** *(Will be updated after deployment)*
+
 ## ⚡ Quick Start (3 Commands Only!)
 
 ```bash
@@ -15,7 +18,7 @@ npm run start-backend    # Terminal 1
 npm run start-frontend   # Terminal 2
 ```
 
-**🎉 Done! App running at:** `http://localhost:3000`
+**🎉 Done! App running at:** `http://localhost:5173`
 
 ---
 
@@ -168,32 +171,7 @@ cd frontend && npm run dev
 - Get connection string
 - Update `backend/server.js` line 6 with your connection string
 
-## 🎮 How to Use the Application
 
-### **1. Add New Job Application**
-- Fill in company name, position, and initial status
-- Click "Add Job" to create new entry
-- Job automatically gets timestamp and empty history
-
-### **2. Update Job Status**
-- Click on any job card to expand details
-- Use status dropdown to change current status
-- History is automatically updated with timestamp
-
-### **3. View Status History**
-- Expand job card to see full history timeline
-- Each status change shows previous status, new status, and date
-- Professional visual representation with color-coded status badges
-
-### **4. Add Notes to History**
-- Click the edit icon (✏️) next to any history entry
-- Add contextual notes about that status change
-- Submit to save notes permanently
-
-### **5. Manage Applications**
-- Delete applications that are no longer relevant
-- Edit job details as needed
-- Track progress through the entire application process
 
 ## 🏗️ Project Structure
 
@@ -270,30 +248,6 @@ FSD_Assignment_Project/
   ]
 }
 ```
-
-## 🎨 Design Features
-
-### **Modern UI/UX:**
-- Clean, professional interface design
-- Responsive layout for all screen sizes
-- Consistent color scheme and typography
-- Smooth animations and transitions
-- Accessibility considerations
-
-### **Status Color Coding:**
-- **Applied:** Blue (#3498db)
-- **Reviewed:** Orange (#f39c12)
-- **Interview:** Purple (#9b59b6)
-- **Offer:** Green (#27ae60)
-- **Rejected:** Red (#e74c3c)
-
-## 🚀 Future Enhancements
-
-The application footer showcases a comprehensive roadmap of upcoming features including:
-- Smart analytics and insights
-- Enhanced user experience features
-- Collaboration and sharing capabilities
-- Advanced data management and security
 
 ## 👨‍💻 Developer Information
 

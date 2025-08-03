@@ -8,7 +8,9 @@
     "install-all": "cd backend && npm install && cd ../frontend && npm install",
     "start-backend": "cd backend && npm start",
     "start-frontend": "cd frontend && npm run dev",
-    "setup": "npm run install-all"
+    "setup": "npm run install-all",
+    "build": "cd frontend && npm run build",
+    "vercel-build": "cd frontend && npm install && npm run build"
   },
   "keywords": [
     "job-tracker",
