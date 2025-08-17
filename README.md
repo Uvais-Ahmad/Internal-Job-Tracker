@@ -2,7 +2,7 @@
 ### Enhanced Full-Stack Job Application Management System
 
 ## 🌐 Live Demo
-**🚀 [View Live Application](https://your-project-name.vercel.app)** *(Will be updated after deployment)*
+**🚀 [View Live Application]()** *(Will be updated after deployment)*
 
 ## ⚡ Quick Start (3 Commands Only!)
 
